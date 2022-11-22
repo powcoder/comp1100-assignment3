@@ -1,0 +1,8 @@
+*/dist/
+*/dist-newstyle
+*.nix
+*.xml
+*.iml
+.idea
+.cabal-sandbox
+cabal.sandbox.config
